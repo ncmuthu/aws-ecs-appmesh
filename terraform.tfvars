@@ -1,0 +1,5 @@
+env="dev"
+vpc_cidr="10.2.0.0/16"
+region="ap-southeast-1"
+container01_image_name="345082620807.dkr.ecr.ap-southeast-1.amazonaws.com/myecr01/nginx:latest"
+container02_image_name="postgres"
